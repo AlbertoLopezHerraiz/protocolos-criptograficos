@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="protocolos-criptograficos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/protocolos_criptograficos_jar</output-path>
+    <root id="archive" name="protocolos-criptograficos.jar">
+      <element id="module-output" name="protocolos-criptograficos" />
+    </root>
+  </artifact>
+</component>
